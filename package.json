@@ -1,0 +1,19 @@
+{
+  "name": "static_node_and_express_site",
+  "version": "1.0.0",
+  "description": "static_node_and_express_site",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "ciscomar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}

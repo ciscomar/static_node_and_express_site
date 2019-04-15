@@ -1,0 +1,73 @@
+{
+    "data": {
+        "projects": [
+            {
+                "id": 0,
+                "project_name": "Random Quote Generator",
+                "description": "Generate a random quote with a click of a button or after a certain amount of time",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://ciscomar.github.io/random_quote_generator/",
+                "github_link": "https://github.com/ciscomar/random_quote_generator",
+                "image_urls": ["../images/project1_2.jpg", "../images/project1_3.jpg", "../images/project1_4.jpg"]
+            },
+
+            {
+                "id": 1,
+                "project_name": "Interactive Form",
+                "description": "Submit information with a user friendly interactive form",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://ciscomar.github.io/interactive_form/",
+                "github_link": "https://github.com/ciscomar/interactive_form",
+                "image_urls": ["../images/project2_2.jpg", "../images/project2_3.jpg","../images/project2_4.jpg"]
+            },
+
+            {
+                "id": 2,
+                "project_name": "List pagination and Filtering",
+                "description": "Filter students",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://ciscomar.github.io/list_pagination_and_filtering/",
+                "github_link": "https://github.com/ciscomar/list_pagination_and_filtering",
+                "image_urls": ["../images/project3_2.jpg", "../images/project3_3.jpg","../images/project3_4.jpg"]
+            },
+            
+            {
+                "id": 3,
+                "project_name": "OOP Game",
+                "description": "Phrase Hunter Game",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://ciscomar.github.io/oop_game/",
+                "github_link": "https://github.com/ciscomar/oop_game",
+                "image_urls": ["../images/project4_2.jpg", "../images/project4_3.jpg","../images/project4_4.jpg"]
+            },
+
+            {
+                "id": 4,
+                "project_name": "Public API Request",
+                "description": "Public API Request to filter users",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://ciscomar.github.io/public_api_request/",
+                "github_link": "https://github.com/ciscomar/public_api_request",
+                "image_urls": ["../images/project5_2.jpg", "../images/project5_3.jpg","../images/project5_4.jpg"]
+            }          
+
+        ],
+        "info": [
+            {
+                "name": "Francisco Morales",
+                "title": "Full Stack Javascript Student",
+                "portfolio": "Hello, I am a computer systems engineer with some IT support experience, Full Stack Javascript Student, always trying to learn and improve, currently working as IT support at Tristone Flowtech Mexico",
+                "skills": ["HTML","CSS","Javascript","NodeJs","MySQL","C#"],
+                "contactinfo": {
+                        "email":"cisco.morales.27@gmail.com" 
+                    },
+                "pages":{
+                    "github": "https://github.com/ciscomar"
+                }
+
+            }
+        ]
+
+    }
+    
+}
